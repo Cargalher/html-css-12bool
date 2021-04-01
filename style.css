@@ -1,9 +1,12 @@
 main{
-    background-color: hsl(350deg 100% 88%);;
+    background-color: hsl(350deg 100% 88%);
+    
 }
 footer{
     background-color: hsl(359deg 79% 72%);
+   
 }
 .row{
     border: 1px solid black;
+   height:100px;
 }
