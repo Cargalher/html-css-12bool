@@ -4,3 +4,6 @@ main{
 footer{
     background-color: hsl(359deg 79% 72%);
 }
+.row{
+    border: 1px solid black;
+}
