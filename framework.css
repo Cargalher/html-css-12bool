@@ -61,7 +61,7 @@ clear: both;
 .col-10{
     width: calc((100% / 12)*10);
 }
-.col-1{
+.col-11{
     width: calc((100% / 12)*11);
 }
 .col-12{
