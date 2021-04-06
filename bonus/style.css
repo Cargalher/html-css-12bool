@@ -1,9 +1,9 @@
-bg_white{
+.bg_white{
     background-color: white;
 }
 .bg_red{
     background-color: red;
 }
 .bg_grey{
-    background-color: darkgray;
+    background-color: rgb(37, 35, 35);
 }
